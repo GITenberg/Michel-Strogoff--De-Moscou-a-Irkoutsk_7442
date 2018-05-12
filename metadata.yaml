@@ -1,5 +1,8 @@
 _repo: Michel-Strogoff--De-Moscou-a-Irkoutsk_7442
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Verne, Jules
@@ -26,6 +29,8 @@ description: "Michael Strogoff: The Courier of the Czar (French: Michel Strogoff
   \ later adapted to a play, by Verne himself and Adolphe d'Ennery. Incidental music\
   \ to the play was written by Alexandre Artus in 1880. The book has been adapted\
   \ several times for films, television and cartoon series.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7442#Michel-Strogoff--De-Moscou-a-Irkoutsk
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2005-02-01'
 gutenberg_type: Text
